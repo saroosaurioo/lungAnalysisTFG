@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Análisis de imagen médica con IA</title>
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+    <style>
+        .loader {
+            border: 8px solid #f3f3f3;
+            border-radius: 50%;
+            border-top: 8px solid #3498db;
+            width: 40px;
+            height: 40px;
+            animation: spin 1s linear infinite;
+            position: fixed;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+        }
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+    </style>
+</head>
+<body class="bg-gray-900 text-gray-200">
+    <div class="min-h-screen flex flex-col justify-center items-center">
+        <div class="text-center">
+            <h1 class="text-4xl font-bold text-white mb-4">Análisis de imagen médica con IA</h1>
+            <p class="text-gray-400 mb-8">Sube una imagen y deja que nuestra IA analice los detalles.</p>
+            <div class="bg-gray-800 p-8 rounded-lg shadow-lg w-full max-w-md mx-auto">
+                <form id="uploadForm" action="/" method="post" enctype="multipart/form-data">
+                    <div class="flex flex-col items-center">
+                        <label class="block mb-2 text-sm font-bold text-gray-500" for="file_upload">
+                            Subir imagen
+                        </label>
+                        <input class="block w-full text-md text-gray-500
+                            file:mr-4 file:py-2 file:px-4
+                            file:rounded-full file:border-0
+                            file:text-sm file:font-semibold
+                            file:bg-violet-50 file:text-violet-700
+                            hover:file:bg-violet-100
+                            cursor-pointer" id="file_upload" type="file" name="file">
+                    </div>
+                    <button type="submit" class="mt-8 w-full bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">
+                        Analizar imagen
+                    </button>
+                </form>
+                <div id="loader" class="loader" style="display: none;"></div>
+                {% if resultado %}
+                    <div class="mt-8 bg-gray-700 p-4 rounded">
+                        <img src="{{ imagen_url }}" alt="Imagen subida" class="mt-4 w-64 h-64 object-cover mx-auto rounded">
+                        <h2 class="text-xl font-bold">Resultado del análisis:</h2>
+                        <p>{{ resultado }}</p>
+                    </div>
+                {% endif %}
+            </div>
+        </div>
+    </div>
+    <script>
+        document.getElementById('uploadForm').onsubmit = function() {
+            document.getElementById('loader').style.display = 'block';
+        };
+    </script>
+</body>
+</html>
