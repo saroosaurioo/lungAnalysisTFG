@@ -1,0 +1,451 @@
+Modelo|y_test|predictions
+Modelo 1: VGG Base|0|0.2688092
+Modelo 1: VGG Base|1|0.08217628
+Modelo 1: VGG Base|0|0.7890818
+Modelo 1: VGG Base|1|0.7825574
+Modelo 1: VGG Base|0|0.39158094
+Modelo 1: VGG Base|0|0.5131502
+Modelo 1: VGG Base|1|0.41943905
+Modelo 1: VGG Base|0|0.08165777
+Modelo 1: VGG Base|1|0.9549939
+Modelo 1: VGG Base|0|0.18064384
+Modelo 1: VGG Base|0|0.007618921
+Modelo 1: VGG Base|0|0.23724963
+Modelo 1: VGG Base|0|0.07895919
+Modelo 1: VGG Base|0|0.14839832
+Modelo 1: VGG Base|1|0.5362259
+Modelo 1: VGG Base|1|0.8129136
+Modelo 1: VGG Base|1|0.9769984
+Modelo 1: VGG Base|0|0.17496395
+Modelo 1: VGG Base|1|0.9877725
+Modelo 1: VGG Base|0|0.0636835
+Modelo 1: VGG Base|0|0.2514474
+Modelo 1: VGG Base|0|0.091727376
+Modelo 1: VGG Base|1|0.27178386
+Modelo 1: VGG Base|1|0.88994884
+Modelo 1: VGG Base|1|0.99660504
+Modelo 1: VGG Base|0|0.45045087
+Modelo 1: VGG Base|1|0.7477959
+Modelo 1: VGG Base|1|0.3003672
+Modelo 1: VGG Base|0|0.22631578
+Modelo 1: VGG Base|1|0.99783105
+Modelo 1: VGG Base|0|0.0053685177
+Modelo 1: VGG Base|1|0.13560513
+Modelo 1: VGG Base|0|0.75551224
+Modelo 1: VGG Base|1|0.98702675
+Modelo 1: VGG Base|0|0.38617188
+Modelo 1: VGG Base|1|0.09735014
+Modelo 1: VGG Base|1|0.9983052
+Modelo 1: VGG Base|0|0.12215294
+Modelo 1: VGG Base|0|0.20548415
+Modelo 1: VGG Base|0|0.16262431
+Modelo 1: VGG Base|0|0.10654934
+Modelo 1: VGG Base|0|0.16216737
+Modelo 1: VGG Base|1|0.70551074
+Modelo 1: VGG Base|1|0.91208243
+Modelo 1: VGG Base|1|0.98878944
+Modelo 1: VGG Base|0|0.19785012
+Modelo 1: VGG Base|1|0.2515797
+Modelo 1: VGG Base|0|0.1446292
+Modelo 1: VGG Base|0|0.100581236
+Modelo 1: VGG Base|0|0.27525306
+Modelo 1: VGG Base|1|0.86604387
+Modelo 1: VGG Base|1|0.96686035
+Modelo 1: VGG Base|0|0.17099121
+Modelo 1: VGG Base|0|0.14602162
+Modelo 1: VGG Base|1|0.1846059
+Modelo 1: VGG Base|0|0.39666831
+Modelo 1: VGG Base|1|0.2561207
+Modelo 1: VGG Base|1|0.15770848
+Modelo 1: VGG Base|1|0.980208
+Modelo 1: VGG Base|0|0.15850015
+Modelo 1: VGG Base|0|0.09139337
+Modelo 1: VGG Base|1|0.22381513
+Modelo 1: VGG Base|1|0.9480426
+Modelo 1: VGG Base|1|0.83735156
+Modelo 1: VGG Base|1|0.9484036
+Modelo 1: VGG Base|1|0.99288094
+Modelo 1: VGG Base|0|0.14528634
+Modelo 1: VGG Base|0|0.8798263
+Modelo 1: VGG Base|0|0.31877998
+Modelo 1: VGG Base|1|0.87627125
+Modelo 1: VGG Base|1|0.097076364
+Modelo 1: VGG Base|1|0.7411375
+Modelo 1: VGG Base|0|0.65135586
+Modelo 1: VGG Base|1|0.93777305
+Modelo 1: VGG Base|0|0.566504
+Modelo 1: VGG Base|0|0.44443154
+Modelo 1: VGG Base|0|0.36281908
+Modelo 1: VGG Base|1|0.9648214
+Modelo 1: VGG Base|0|0.13980761
+Modelo 1: VGG Base|0|0.38498038
+Modelo 1: VGG Base|0|0.8790362
+Modelo 1: VGG Base|1|0.98934186
+Modelo 1: VGG Base|1|0.9823882
+Modelo 1: VGG Base|1|0.99287206
+Modelo 1: VGG Base|1|0.9837282
+Modelo 1: VGG Base|0|0.85281974
+Modelo 1: VGG Base|1|0.82111543
+Modelo 1: VGG Base|0|0.030133598
+Modelo 1: VGG Base|1|0.9505116
+Modelo 1: VGG Base|1|0.99706596
+Modelo 1: VGG Base|0|0.020053582
+Modelo 1: VGG Base|1|0.9653377
+Modelo 1: VGG Base|1|0.8104611
+Modelo 1: VGG Base|0|0.22981958
+Modelo 1: VGG Base|0|0.36353305
+Modelo 1: VGG Base|1|0.9439769
+Modelo 1: VGG Base|0|0.28035045
+Modelo 1: VGG Base|0|0.17374304
+Modelo 1: VGG Base|1|0.93430686
+Modelo 1: VGG Base|1|0.99337196
+Modelo 1: VGG Base|1|0.017007386
+Modelo 1: VGG Base|1|0.5540804
+Modelo 1: VGG Base|1|0.98870474
+Modelo 1: VGG Base|1|0.07623697
+Modelo 1: VGG Base|0|0.061289597
+Modelo 1: VGG Base|1|0.9889818
+Modelo 1: VGG Base|1|0.9969812
+Modelo 1: VGG Base|1|0.70056635
+Modelo 1: VGG Base|1|0.63613826
+Modelo 1: VGG Base|0|0.26998183
+Modelo 1: VGG Base|1|0.7355638
+Modelo 1: VGG Base|0|0.124653146
+Modelo 1: VGG Base|0|0.12882708
+Modelo 1: VGG Base|0|0.09710068
+Modelo 1: VGG Base|0|0.334695
+Modelo 1: VGG Base|0|0.012587561
+Modelo 1: VGG Base|0|0.04179277
+Modelo 1: VGG Base|0|0.18899472
+Modelo 1: VGG Base|1|0.97244984
+Modelo 1: VGG Base|0|0.04150578
+Modelo 1: VGG Base|1|0.9454219
+Modelo 1: VGG Base|1|0.99286735
+Modelo 1: VGG Base|0|0.026354257
+Modelo 1: VGG Base|1|0.0048464607
+Modelo 1: VGG Base|0|0.08676307
+Modelo 1: VGG Base|0|0.10319634
+Modelo 1: VGG Base|1|0.9993476
+Modelo 1: VGG Base|0|0.96730083
+Modelo 1: VGG Base|1|0.46837705
+Modelo 1: VGG Base|1|0.94438016
+Modelo 1: VGG Base|1|0.29286262
+Modelo 1: VGG Base|1|0.99468035
+Modelo 1: VGG Base|0|0.48076218
+Modelo 1: VGG Base|1|0.5985879
+Modelo 1: VGG Base|1|0.98497415
+Modelo 1: VGG Base|1|0.9032902
+Modelo 1: VGG Base|1|0.94977385
+Modelo 1: VGG Base|1|0.8711599
+Modelo 1: VGG Base|1|0.1374983
+Modelo 1: VGG Base|0|0.2761609
+Modelo 1: VGG Base|0|0.042609803
+Modelo 1: VGG Base|1|0.8384609
+Modelo 1: VGG Base|1|0.5897569
+Modelo 1: VGG Base|0|0.7013887
+Modelo 1: VGG Base|0|0.6321536
+Modelo 1: VGG Base|0|0.15483297
+Modelo 1: VGG Base|1|0.79371387
+Modelo 1: VGG Base|1|0.37965155
+Modelo 1: VGG Base|1|0.972498
+Modelo 1: VGG Base|1|0.108814836
+Modelo 1: VGG Base|1|0.8645654
+Modelo 1: VGG Base|1|0.9589425
+Modelo 1: VGG Base|1|0.115599066
+Modelo 1: VGG Base|0|0.01328814
+Modelo 1: VGG Base|1|0.9974637
+Modelo 1: VGG Base|1|0.8307594
+Modelo 1: VGG Base|1|0.06758452
+Modelo 1: VGG Base|1|0.94488037
+Modelo 1: VGG Base|0|0.12945163
+Modelo 1: VGG Base|0|0.03685853
+Modelo 1: VGG Base|0|0.058788016
+Modelo 1: VGG Base|0|0.044772338
+Modelo 1: VGG Base|1|0.97514534
+Modelo 1: VGG Base|0|0.09554687
+Modelo 1: VGG Base|0|0.517988
+Modelo 1: VGG Base|1|0.4684061
+Modelo 1: VGG Base|1|0.9860523
+Modelo 1: VGG Base|0|0.39703757
+Modelo 1: VGG Base|1|0.9678697
+Modelo 1: VGG Base|1|0.32259408
+Modelo 1: VGG Base|1|0.89130926
+Modelo 1: VGG Base|1|0.8650561
+Modelo 1: VGG Base|0|0.044596832
+Modelo 1: VGG Base|1|0.8774874
+Modelo 1: VGG Base|1|0.91035676
+Modelo 1: VGG Base|0|0.046564665
+Modelo 1: VGG Base|0|0.012637128
+Modelo 1: VGG Base|0|0.3405833
+Modelo 1: VGG Base|1|0.9906094
+Modelo 1: VGG Base|1|0.47000164
+Modelo 1: VGG Base|1|0.9768336
+Modelo 1: VGG Base|0|0.06646967
+Modelo 1: VGG Base|1|0.8976543
+Modelo 1: VGG Base|0|0.36290374
+Modelo 1: VGG Base|1|0.9938933
+Modelo 1: VGG Base|0|0.26464388
+Modelo 1: VGG Base|0|0.4077323
+Modelo 1: VGG Base|0|0.029972654
+Modelo 1: VGG Base|0|0.24843898
+Modelo 1: VGG Base|1|0.19469112
+Modelo 1: VGG Base|1|0.995567
+Modelo 1: VGG Base|0|0.22885709
+Modelo 1: VGG Base|1|0.4125051
+Modelo 1: VGG Base|1|0.95867527
+Modelo 1: VGG Base|1|0.117346615
+Modelo 1: VGG Base|1|0.9184554
+Modelo 1: VGG Base|1|0.65248287
+Modelo 1: VGG Base|0|0.12803315
+Modelo 1: VGG Base|1|0.17954203
+Modelo 1: VGG Base|0|0.35052598
+Modelo 1: VGG Base|1|0.9324858
+Modelo 1: VGG Base|1|0.9740692
+Modelo 1: VGG Base|0|0.66147804
+Modelo 1: VGG Base|1|0.57560295
+Modelo 1: VGG Base|1|0.7645877
+Modelo 1: VGG Base|1|0.97731495
+Modelo 1: VGG Base|1|0.91834533
+Modelo 1: VGG Base|1|0.9826011
+Modelo 1: VGG Base|1|0.19946636
+Modelo 1: VGG Base|0|0.22997579
+Modelo 1: VGG Base|1|0.97322625
+Modelo 1: VGG Base|0|0.31089368
+Modelo 1: VGG Base|0|0.3763132
+Modelo 1: VGG Base|1|0.17133884
+Modelo 1: VGG Base|0|0.009208447
+Modelo 1: VGG Base|0|0.9049183
+Modelo 1: VGG Base|0|0.30288702
+Modelo 1: VGG Base|1|0.9530426
+Modelo 1: VGG Base|1|0.381987
+Modelo 1: VGG Base|0|0.05981714
+Modelo 1: VGG Base|1|0.8116092
+Modelo 1: VGG Base|0|0.018484091
+Modelo 1: VGG Base|1|0.12346496
+Modelo 1: VGG Base|1|0.56921625
+Modelo 1: VGG Base|1|0.90063286
+Modelo 2: VGG con Data Augmentation|0|0.020726297
+Modelo 2: VGG con Data Augmentation|1|0.20141733
+Modelo 2: VGG con Data Augmentation|0|0.49442008
+Modelo 2: VGG con Data Augmentation|1|0.92733383
+Modelo 2: VGG con Data Augmentation|0|0.7867497
+Modelo 2: VGG con Data Augmentation|0|0.089986786
+Modelo 2: VGG con Data Augmentation|1|0.6118488
+Modelo 2: VGG con Data Augmentation|0|0.21821597
+Modelo 2: VGG con Data Augmentation|1|0.6138043
+Modelo 2: VGG con Data Augmentation|0|0.13602594
+Modelo 2: VGG con Data Augmentation|0|0.16289532
+Modelo 2: VGG con Data Augmentation|0|0.8804759
+Modelo 2: VGG con Data Augmentation|0|0.12727192
+Modelo 2: VGG con Data Augmentation|0|0.4805754
+Modelo 2: VGG con Data Augmentation|1|0.79765916
+Modelo 2: VGG con Data Augmentation|1|0.8586087
+Modelo 2: VGG con Data Augmentation|1|0.9621719
+Modelo 2: VGG con Data Augmentation|0|0.06230945
+Modelo 2: VGG con Data Augmentation|1|0.9985469
+Modelo 2: VGG con Data Augmentation|0|0.36741766
+Modelo 2: VGG con Data Augmentation|0|0.24740276
+Modelo 2: VGG con Data Augmentation|0|0.09730597
+Modelo 2: VGG con Data Augmentation|1|0.33020332
+Modelo 2: VGG con Data Augmentation|1|0.42567885
+Modelo 2: VGG con Data Augmentation|1|0.9992391
+Modelo 2: VGG con Data Augmentation|0|0.28401336
+Modelo 2: VGG con Data Augmentation|1|0.9835714
+Modelo 2: VGG con Data Augmentation|1|0.7470835
+Modelo 2: VGG con Data Augmentation|0|0.6240895
+Modelo 2: VGG con Data Augmentation|1|0.98348397
+Modelo 2: VGG con Data Augmentation|0|0.15933722
+Modelo 2: VGG con Data Augmentation|1|0.13733901
+Modelo 2: VGG con Data Augmentation|0|0.6944272
+Modelo 2: VGG con Data Augmentation|1|0.8254577
+Modelo 2: VGG con Data Augmentation|0|0.078976214
+Modelo 2: VGG con Data Augmentation|1|0.85814476
+Modelo 2: VGG con Data Augmentation|1|0.98983747
+Modelo 2: VGG con Data Augmentation|0|0.17826186
+Modelo 2: VGG con Data Augmentation|0|0.21927483
+Modelo 2: VGG con Data Augmentation|0|0.46600536
+Modelo 2: VGG con Data Augmentation|0|0.00068506453
+Modelo 2: VGG con Data Augmentation|0|0.16974574
+Modelo 2: VGG con Data Augmentation|1|0.5506234
+Modelo 2: VGG con Data Augmentation|1|0.96746093
+Modelo 2: VGG con Data Augmentation|1|0.9938877
+Modelo 2: VGG con Data Augmentation|0|0.12493846
+Modelo 2: VGG con Data Augmentation|1|0.1813334
+Modelo 2: VGG con Data Augmentation|0|0.26010665
+Modelo 2: VGG con Data Augmentation|0|0.08614885
+Modelo 2: VGG con Data Augmentation|0|0.8877677
+Modelo 2: VGG con Data Augmentation|1|0.99599624
+Modelo 2: VGG con Data Augmentation|1|0.97461116
+Modelo 2: VGG con Data Augmentation|0|0.05576495
+Modelo 2: VGG con Data Augmentation|0|0.13528647
+Modelo 2: VGG con Data Augmentation|1|0.4701306
+Modelo 2: VGG con Data Augmentation|0|0.16391012
+Modelo 2: VGG con Data Augmentation|1|0.16641879
+Modelo 2: VGG con Data Augmentation|1|0.70876586
+Modelo 2: VGG con Data Augmentation|1|0.99502426
+Modelo 2: VGG con Data Augmentation|0|0.39589858
+Modelo 2: VGG con Data Augmentation|0|0.06327139
+Modelo 2: VGG con Data Augmentation|1|0.3743671
+Modelo 2: VGG con Data Augmentation|1|0.9982665
+Modelo 2: VGG con Data Augmentation|1|0.9350462
+Modelo 2: VGG con Data Augmentation|1|0.95924556
+Modelo 2: VGG con Data Augmentation|1|0.99985504
+Modelo 2: VGG con Data Augmentation|0|0.080400206
+Modelo 2: VGG con Data Augmentation|0|0.9891038
+Modelo 2: VGG con Data Augmentation|0|0.22272378
+Modelo 2: VGG con Data Augmentation|1|0.99860495
+Modelo 2: VGG con Data Augmentation|1|0.41624644
+Modelo 2: VGG con Data Augmentation|1|0.78450805
+Modelo 2: VGG con Data Augmentation|0|0.4743694
+Modelo 2: VGG con Data Augmentation|1|0.9541637
+Modelo 2: VGG con Data Augmentation|0|0.18220378
+Modelo 2: VGG con Data Augmentation|0|0.5419598
+Modelo 2: VGG con Data Augmentation|0|0.17340095
+Modelo 2: VGG con Data Augmentation|1|0.99796355
+Modelo 2: VGG con Data Augmentation|0|0.42340305
+Modelo 2: VGG con Data Augmentation|0|0.14610802
+Modelo 2: VGG con Data Augmentation|0|0.710534
+Modelo 2: VGG con Data Augmentation|1|0.98890406
+Modelo 2: VGG con Data Augmentation|1|0.9744295
+Modelo 2: VGG con Data Augmentation|1|0.94797105
+Modelo 2: VGG con Data Augmentation|1|0.9945798
+Modelo 2: VGG con Data Augmentation|0|0.3558028
+Modelo 2: VGG con Data Augmentation|1|0.2419556
+Modelo 2: VGG con Data Augmentation|0|0.93859845
+Modelo 2: VGG con Data Augmentation|1|0.8992079
+Modelo 2: VGG con Data Augmentation|1|0.9934001
+Modelo 2: VGG con Data Augmentation|0|0.24329737
+Modelo 2: VGG con Data Augmentation|1|0.50381505
+Modelo 2: VGG con Data Augmentation|1|0.9837805
+Modelo 2: VGG con Data Augmentation|0|0.50837946
+Modelo 2: VGG con Data Augmentation|0|0.44605926
+Modelo 2: VGG con Data Augmentation|1|0.99742055
+Modelo 2: VGG con Data Augmentation|0|0.43580642
+Modelo 2: VGG con Data Augmentation|0|0.16407938
+Modelo 2: VGG con Data Augmentation|1|0.94906116
+Modelo 2: VGG con Data Augmentation|1|0.999762
+Modelo 2: VGG con Data Augmentation|1|0.7281028
+Modelo 2: VGG con Data Augmentation|1|0.9953302
+Modelo 2: VGG con Data Augmentation|1|0.99723345
+Modelo 2: VGG con Data Augmentation|1|0.3319661
+Modelo 2: VGG con Data Augmentation|0|0.15276103
+Modelo 2: VGG con Data Augmentation|1|0.99858606
+Modelo 2: VGG con Data Augmentation|1|0.99870276
+Modelo 2: VGG con Data Augmentation|1|0.9214979
+Modelo 2: VGG con Data Augmentation|1|0.94916165
+Modelo 2: VGG con Data Augmentation|0|0.37843186
+Modelo 2: VGG con Data Augmentation|1|0.95549303
+Modelo 2: VGG con Data Augmentation|0|0.16199361
+Modelo 2: VGG con Data Augmentation|0|0.52253616
+Modelo 2: VGG con Data Augmentation|0|0.068167664
+Modelo 2: VGG con Data Augmentation|0|0.3759628
+Modelo 2: VGG con Data Augmentation|0|0.09574008
+Modelo 2: VGG con Data Augmentation|0|0.107179604
+Modelo 2: VGG con Data Augmentation|0|0.32005483
+Modelo 2: VGG con Data Augmentation|1|0.99206126
+Modelo 2: VGG con Data Augmentation|0|0.17695682
+Modelo 2: VGG con Data Augmentation|1|0.9976037
+Modelo 2: VGG con Data Augmentation|1|0.93018436
+Modelo 2: VGG con Data Augmentation|0|0.22086048
+Modelo 2: VGG con Data Augmentation|1|0.22425595
+Modelo 2: VGG con Data Augmentation|0|0.04024943
+Modelo 2: VGG con Data Augmentation|0|0.77969253
+Modelo 2: VGG con Data Augmentation|1|0.9977329
+Modelo 2: VGG con Data Augmentation|0|0.83898985
+Modelo 2: VGG con Data Augmentation|1|0.8610438
+Modelo 2: VGG con Data Augmentation|1|0.9981463
+Modelo 2: VGG con Data Augmentation|1|0.51587415
+Modelo 2: VGG con Data Augmentation|1|0.99221545
+Modelo 2: VGG con Data Augmentation|0|0.37739772
+Modelo 2: VGG con Data Augmentation|1|0.88944757
+Modelo 2: VGG con Data Augmentation|1|0.9883753
+Modelo 2: VGG con Data Augmentation|1|0.99984384
+Modelo 2: VGG con Data Augmentation|1|0.89912903
+Modelo 2: VGG con Data Augmentation|1|0.9849857
+Modelo 2: VGG con Data Augmentation|1|0.8368036
+Modelo 2: VGG con Data Augmentation|0|0.18161249
+Modelo 2: VGG con Data Augmentation|0|0.010418997
+Modelo 2: VGG con Data Augmentation|1|0.9994822
+Modelo 2: VGG con Data Augmentation|1|0.66328406
+Modelo 2: VGG con Data Augmentation|0|0.6678811
+Modelo 2: VGG con Data Augmentation|0|0.5277626
+Modelo 2: VGG con Data Augmentation|0|0.05587237
+Modelo 2: VGG con Data Augmentation|1|0.350396
+Modelo 2: VGG con Data Augmentation|1|0.46603823
+Modelo 2: VGG con Data Augmentation|1|0.72761476
+Modelo 2: VGG con Data Augmentation|1|0.1323015
+Modelo 2: VGG con Data Augmentation|1|0.9048208
+Modelo 2: VGG con Data Augmentation|1|0.9697921
+Modelo 2: VGG con Data Augmentation|1|0.64021945
+Modelo 2: VGG con Data Augmentation|0|0.17324764
+Modelo 2: VGG con Data Augmentation|1|0.992804
+Modelo 2: VGG con Data Augmentation|1|0.9991015
+Modelo 2: VGG con Data Augmentation|1|0.06164948
+Modelo 2: VGG con Data Augmentation|1|0.96493375
+Modelo 2: VGG con Data Augmentation|0|0.58763784
+Modelo 2: VGG con Data Augmentation|0|0.26869726
+Modelo 2: VGG con Data Augmentation|0|0.2784622
+Modelo 2: VGG con Data Augmentation|0|0.3339818
+Modelo 2: VGG con Data Augmentation|1|0.7064381
+Modelo 2: VGG con Data Augmentation|0|0.12570192
+Modelo 2: VGG con Data Augmentation|0|0.07377562
+Modelo 2: VGG con Data Augmentation|1|0.97558653
+Modelo 2: VGG con Data Augmentation|1|0.96350324
+Modelo 2: VGG con Data Augmentation|0|0.2058485
+Modelo 2: VGG con Data Augmentation|1|0.9909636
+Modelo 2: VGG con Data Augmentation|1|0.6107914
+Modelo 2: VGG con Data Augmentation|1|0.4711073
+Modelo 2: VGG con Data Augmentation|1|0.4493734
+Modelo 2: VGG con Data Augmentation|0|0.07896586
+Modelo 2: VGG con Data Augmentation|1|0.9601742
+Modelo 2: VGG con Data Augmentation|1|0.99885297
+Modelo 2: VGG con Data Augmentation|0|0.36726397
+Modelo 2: VGG con Data Augmentation|0|0.12117843
+Modelo 2: VGG con Data Augmentation|0|0.11215539
+Modelo 2: VGG con Data Augmentation|1|0.99952126
+Modelo 2: VGG con Data Augmentation|1|0.8372815
+Modelo 2: VGG con Data Augmentation|1|0.9644493
+Modelo 2: VGG con Data Augmentation|0|0.24041428
+Modelo 2: VGG con Data Augmentation|1|0.37438706
+Modelo 2: VGG con Data Augmentation|0|0.26850024
+Modelo 2: VGG con Data Augmentation|1|0.991736
+Modelo 2: VGG con Data Augmentation|0|0.2968288
+Modelo 2: VGG con Data Augmentation|0|0.35939997
+Modelo 2: VGG con Data Augmentation|0|0.35486144
+Modelo 2: VGG con Data Augmentation|0|0.7950101
+Modelo 2: VGG con Data Augmentation|1|0.85330087
+Modelo 2: VGG con Data Augmentation|1|0.9996381
+Modelo 2: VGG con Data Augmentation|0|0.22908835
+Modelo 2: VGG con Data Augmentation|1|0.60826904
+Modelo 2: VGG con Data Augmentation|1|0.8807764
+Modelo 2: VGG con Data Augmentation|1|0.5163678
+Modelo 2: VGG con Data Augmentation|1|0.8845365
+Modelo 2: VGG con Data Augmentation|1|0.8938542
+Modelo 2: VGG con Data Augmentation|0|0.11603895
+Modelo 2: VGG con Data Augmentation|1|0.1723529
+Modelo 2: VGG con Data Augmentation|0|0.12845021
+Modelo 2: VGG con Data Augmentation|1|0.9982717
+Modelo 2: VGG con Data Augmentation|1|0.90605974
+Modelo 2: VGG con Data Augmentation|0|0.55805784
+Modelo 2: VGG con Data Augmentation|1|0.5212254
+Modelo 2: VGG con Data Augmentation|1|0.9995265
+Modelo 2: VGG con Data Augmentation|1|0.99455005
+Modelo 2: VGG con Data Augmentation|1|0.9996113
+Modelo 2: VGG con Data Augmentation|1|0.99264985
+Modelo 2: VGG con Data Augmentation|1|0.2113245
+Modelo 2: VGG con Data Augmentation|0|0.2959812
+Modelo 2: VGG con Data Augmentation|1|0.90140146
+Modelo 2: VGG con Data Augmentation|0|0.64616036
+Modelo 2: VGG con Data Augmentation|0|0.4852106
+Modelo 2: VGG con Data Augmentation|1|0.7613961
+Modelo 2: VGG con Data Augmentation|0|0.92955196
+Modelo 2: VGG con Data Augmentation|0|0.74378854
+Modelo 2: VGG con Data Augmentation|0|0.36292973
+Modelo 2: VGG con Data Augmentation|1|0.99619776
+Modelo 2: VGG con Data Augmentation|1|0.7323178
+Modelo 2: VGG con Data Augmentation|0|0.21920961
+Modelo 2: VGG con Data Augmentation|1|0.9971757
+Modelo 2: VGG con Data Augmentation|0|0.18406451
+Modelo 2: VGG con Data Augmentation|1|0.7003959
+Modelo 2: VGG con Data Augmentation|1|0.3956851
+Modelo 2: VGG con Data Augmentation|1|0.61062574
